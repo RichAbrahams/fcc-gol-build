@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "forever app.js"
+  },
+  "dependencies": {
+    "deepcopy": "0.6.3",
+    "object-assign": "4.1.0",
+    "react": "15.2.0",
+    "react-dom": "15.2.0",
+    "react-redux": "4.4.5",
+    "react-router": "2.5.2",
+    "react-router-redux": "4.0.5",
+    "redux": "3.5.2",
+    "express": "~4.13.4",
+    "path": "*",
+    "forever": "*"
+  }
+}

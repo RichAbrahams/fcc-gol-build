@@ -11,7 +11,7 @@
     "react-router": "2.5.2",
     "react-router-redux": "4.0.5",
     "redux": "3.5.2",
-    "express": "~4.13.4",
+    "express": "~4.16.0",
     "path": "*",
     "forever": "*"
   }
